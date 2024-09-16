@@ -1,0 +1,6 @@
+Hambuger Buns, 1
+Rolls Hot, 2
+Chips Fries, 1
+Chills Grills, 4
+Buns Burger, 8
+HotDog Fries, 5
