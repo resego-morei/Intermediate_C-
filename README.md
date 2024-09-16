@@ -1,2 +1,2 @@
-# Intermediate_C-
+# Intermediate_C++
 COS110
