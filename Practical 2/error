@@ -1,0 +1,5 @@
+g++ -c main.cpp
+g++ -c drone.cpp
+g++ -c factory.cpp
+g++ -o main drone.o factory.o main.o
+run.sh: line 13:    18 Aborted                 ./main 2>&1
